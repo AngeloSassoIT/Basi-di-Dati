@@ -1,6 +1,9 @@
-Specifiche 
-
-La piattaforma deve poter gestire le richieste di utenti consumatori (clienti) che 
+<svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
+<foreignObject width="100" height="100">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul>
+           <h1>Specifiche del problema</h1> 
+<h4>La piattaforma deve poter gestire le richieste di utenti consumatori (clienti) che 
 desiderano prenotare delle corse erogate dai fornitori dei servizi (conducenti).  
 Quando un utente richiede un servizio di trasporto, viene inviata una notifica con tutte le 
 informazioni necessarie (posizione di partenza, indirizzo di destinazione) al conducente 
@@ -17,12 +20,7 @@ eventuale budget massimo, numero di passeggeri o altre caratteristiche di intere
 Il costo della corsa è quindi calcolato in base alla distanza percorsa, con eventuali 
 sovrapprezzi che derivano dalle caratteristiche del mezzo impiegato e della corsa.  
 Per ogni conducente si vuole uno storico di tutte le richieste pervenute, con il dettaglio 
-di accettazione o meno.  
-• possibilità di gestire meccanismi di scontistica automatizzata per frequenza (es. 5 
-corse in una settimana, la più breve viene scontata del 30%), kilometraggio (ogni 
-100km viene assegnato un punto, ciascuno dei quali corrisponde a un centro numero 
-di km gratis) o altro  
-• i conducenti possono gestire più mezzi, non necessariamente con le stesse 
-caratteristiche  
-• un cliente può prenotare corse ricorrenti (es. ogni venerdì alle 17.00 da una posizione 
-di partenza a una di destinazione), eventualmente richiedendo sempre lo stesso autista 
+di accettazione o meno. </h4>
+</ul></div>
+</foreignObject>
+</svg>
