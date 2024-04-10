@@ -1,0 +1,29 @@
+<html>
+
+<form action = "+" method ="POST">
+<?phpinclude"controllologin.php";?>
+<a href = "logout.html">Logout</a>
+</form>
+<form action = "controllologin.php" method = "POST">
+USERNAME:<BR>
+<input type = "text" id ="username" name = "username">
+
+<BR>PASSWORD:<BR>
+<input type = "password" id = "password" name = "password"><BR>
+
+<BR>GRUPPO<BR>
+
+  <select name="gruppo" >
+   <option value="host" selected="selected">@localhost </option>
+   <option value="user">@localuser </option>
+   var gruppo = document.forms.MyForm.gruppo.value;
+
+  </select>
+ 
+<input type = "submit" name ="Login" value ="login">
+</form>
+<form>
+<input type ="button" name = "Indietro" value ="indietro" onclick="location.href='Home.html'">
+</form> 
+
+</html>
